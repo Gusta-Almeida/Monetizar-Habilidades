@@ -1,124 +1,101 @@
-# Mapa de Habilidades — Projeto: Identificação de Habilidades
+MAPA DE HABILIDADES — PROJETO: IDENTIFICAÇÃO DE HABILIDADES
 
 Este documento reúne o inventário completo das minhas habilidades, o cruzamento com as necessidades do mercado e os possíveis caminhos de monetização.  
 O objetivo é transformar minhas competências em oportunidades reais de geração de valor.
 
----
+------------------------------------------------------------
+ETAPA 1 — INVENTÁRIO DE HABILIDADES
+------------------------------------------------------------
 
-## Etapa 1 — Inventário de Habilidades
-
-### 1. Habilidades Técnicas (Hard Skills)
+1. HABILIDADES TÉCNICAS (HARD SKILLS)
 - Lógica de programação  
 - Python para automações, análise de dados e manipulação de arquivos  
 - Java para projetos iniciais  
-- Git e GitHub (versionamento, organização de repositórios e documentação profissional)  
+- Git e GitHub (versionamento e documentação profissional)  
 - Estruturação de projetos e criação de READMEs  
 - Análise e organização de dados  
 - Criação de scripts para automatizar tarefas repetitivas  
 - Processamento de arquivos TXT, CSV e planilhas  
 - Aprendizagem acelerada de novas tecnologias
 
-### 2. Experiência no Setor Aeroportuário
+2. EXPERIÊNCIA NO SETOR AEROPORTUÁRIO
 - Tarifação aeroportuária (DI, CCT, armazenagem, capatazia)  
 - Cálculo manual de tarifas e interpretação de regras de negócio  
 - Identificação de inconsistências em cálculos  
 - Conhecimento do fluxo operacional de cargas  
-- Capacidade de automatizar processos desse setor
+- Automação de processos desse setor
 
-### 3. Habilidades Cognitivas
+3. HABILIDADES COGNITIVAS
 - Pensamento analítico e resolução de problemas  
 - Organização e clareza lógica  
 - Aprendizagem contínua e disciplinada  
 - Capacidade de entender sistemas complexos  
 - Estruturação e síntese de informações
 
-### 4. Habilidades Interpessoais (Soft Skills)
+4. HABILIDADES INTERPESSOAIS (SOFT SKILLS)
 - Empatia e escuta qualificada  
 - Clareza na comunicação  
 - Didática para ensinar iniciantes  
 - Sensibilidade às necessidades das pessoas  
-- Facilidade para criar relações de confiança  
+- Facilidade em criar relações de confiança  
 - Autoconsciência e busca por desenvolvimento pessoal
 
-### 5. Habilidades Criativas
+5. HABILIDADES CRIATIVAS
 - Criação de documentações profissionais (READMEs, guias, prompts)  
 - Desenvolvimento de ideias e projetos conceituais  
 - Storytelling aplicado à carreira e projetos  
 - Transformação de ideias dispersas em estruturas claras
 
----
+------------------------------------------------------------
+ETAPA 2 — CRUZAMENTO COM NECESSIDADES DO MERCADO
+------------------------------------------------------------
 
-## Etapa 2 — Cruzamento com Necessidades do Mercado
+1. AUTOMATIZAÇÃO DE PROCESSOS
+- Redução de tarefas manuais com scripts e planilhas automatizadas  
+- Aplicável a logística, aeroportos, pequenas empresas e setores repetitivos
 
-A partir das habilidades levantadas, foram identificadas áreas com demanda real e potencial de monetização.
+2. DOCUMENTAÇÃO TÉCNICA PROFISSIONAL
+- READMEs, guias e organização de repositórios  
+- Alta demanda em equipes de tecnologia e freelancers
 
-### 1. Automação de Processos Operacionais
-- Necessidade crescente em empresas para reduzir tarefas manuais.  
-- Aplicações: planilhas automatizadas, scripts Python, limpeza de dados.  
-- Nichos: logística, aeroportos, pequenas empresas e setores repetitivos.
+3. ANÁLISE E ORGANIZAÇÃO DE DADOS
+- Dashboards, relatórios, limpeza e estruturação de dados  
+- Procura crescente por pequenas empresas
 
-### 2. Criação de Documentação Técnica Profissional
-- Documentação clara é altamente valorizada em times de TI.  
-- Serviços possíveis: READMEs, manuais, guias, organização de repositórios.
+4. CONSULTORIA EM TARIFAÇÃO AEROPORTUÁRIA
+- Nicho pouco atendido e altamente técnico  
+- Possibilidades: auditoria, revisão de cálculos, automação
 
-### 3. Análise e Organização de Dados
-- Pequenas empresas têm grande demanda por dashboards, relatórios e organização de dados.  
-- Aplicável em diversos setores.
+5. MENTORIA PARA INICIANTES EM TECNOLOGIA
+- Apoio didático em lógica, Git, GitHub, Python e organização de estudos  
 
-### 4. Consultoria de Tarifação Aeroportuária
-- Poucos profissionais dominam o tema.  
-- Alta demanda por auditoria, revisão de cálculos e automação de fluxos tarifários.
+------------------------------------------------------------
+ETAPA 3 — CAMINHOS DE MONETIZAÇÃO
+------------------------------------------------------------
 
-### 5. Mentoria para Iniciantes em Tecnologia
-- Combinação de didática, clareza e empatia cria diferenciação.  
-- Suporte para primeiros passos em lógica, Git, GitHub, Python e organização de estudos.
-
----
-
-## Etapa 3 — Caminhos de Monetização
-
-A partir das habilidades e demandas identificadas, estes são os caminhos possíveis:
-
-### 1. Prestação de Serviços
+1. PRESTAÇÃO DE SERVIÇOS
 - Automação de processos em Python  
 - Organização e análise de dados  
-- Documentação técnica (README, guias, manuais)  
+- Documentação técnica  
 - Consultoria em tarifação aeroportuária  
 - Revisão e diagnóstico de processos de cálculo
 
-### 2. Portfólio e Presença Online
-- Repositórios no GitHub com:
-  - Projetos de automação  
-  - Estudos de dados  
-  - Documentações técnicas  
-  - Projetos conceituais
-- Publicações no LinkedIn com estudos e reflexões sobre carreira, tecnologia e processos
+2. PORTFÓLIO E PRESENÇA ONLINE
+- Repositórios no GitHub com automações, estudos e documentações  
+- Publicações no LinkedIn com aprendizados e cases
 
-### 3. Criação de Conteúdo
-- Explicações técnicas simples e bem estruturadas  
-- Conteúdos sobre organização de processos, automação e primeiros passos na TI  
+3. CRIAÇÃO DE CONTEÚDO
+- Explicações técnicas claras  
+- Conteúdo sobre organização de processos e automação  
 - Guias práticos e estudos de caso
 
-### 4. Aulas e Mentorias
+4. AULAS E MENTORIAS
 - Acompanhamento de iniciantes  
-- Explicação de lógica de programação  
-- Orientação prática sobre Git e GitHub  
-- Introdução ao uso de IAs no estudo e no trabalho
+- Lógica de programação, Git, GitHub e introdução ao uso de IA
 
-### 5. Parcerias e Projetos
-- Desenvolvimento de automações sob demanda  
-- Ferramentas internas para empresas locais  
-- Criação de produtos digitais:
-  - Templates  
-  - Planilhas inteligentes  
-  - Scripts prontos
+5. PARCERIAS E PROJETOS
+- Automação sob demanda  
+- Ferramentas internas para empresas  
+- Produtos digitais: templates, planilhas e scripts
 
----
-
-## Próximos Passos
-- Criar o primeiro rascunho de portfólio no GitHub  
-- Desenvolver um projeto simples de automação em Python  
-- Escrever um README profissional para este projeto  
-- Elaborar um estudo de caso sobre automatização de tarifação  
-
-Este mapa será atualizado conforme novas habilidades surgirem e o portfólio evoluir.
+------------------------------------------------------------
